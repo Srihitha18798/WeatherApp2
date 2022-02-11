@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewWeather</string>
+    <string name="humidity">Humidity</string>
+    <string name="n_a">N/A</string>
+    <string name="speed">Speed</string>
+    <string name="temp">Temp</string>
+</resources>
